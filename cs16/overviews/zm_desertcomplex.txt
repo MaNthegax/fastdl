@@ -1,0 +1,14 @@
+// overview description file for zm_desertcomplex.bsp
+
+global 
+{
+	ZOOM	1.18
+	ORIGIN	-931.20 	1122.65	        -32.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_desertcomplex.bmp"
+	HEIGHT	-500.00
+}

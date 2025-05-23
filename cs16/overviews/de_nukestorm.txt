@@ -1,0 +1,14 @@
+// overview description file for de_nukestorm.bsp
+
+global 
+{
+	ZOOM	1.48
+	ORIGIN	232 	     -616	   -240
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_nukestorm.bmp"
+	HEIGHT	-240
+}

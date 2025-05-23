@@ -1,0 +1,14 @@
+// overview description file for de_train_assault.bsp
+
+global 
+{
+	ZOOM	1.36
+	ORIGIN	-44 	881.75	-376
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_train_assault.bmp"
+	HEIGHT	-833.0
+}

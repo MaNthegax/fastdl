@@ -1,0 +1,14 @@
+//overview description file for zm_rats_v2.bsp
+
+global
+{
+	ZOOM	3.77
+	ORIGIN	-822.34         188.81 	    431.50
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/zm_rats_v2.tga"
+	HEIGHT	-193
+} 

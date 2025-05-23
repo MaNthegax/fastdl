@@ -1,0 +1,14 @@
+// overview description file for zm_deko2_winter.bsp
+
+global 
+{
+	ZOOM	1.22
+	ORIGIN	60.22 	-288.73	-578.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_deko2_winter.bmp"
+	HEIGHT	-578.00
+}

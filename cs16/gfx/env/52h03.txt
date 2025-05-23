@@ -1,0 +1,18 @@
+=======================
+"52h03" Sky Environment
+=======================
+
+by [HAU]TOT -- http://www.kk3d.de
+
+
+
+Exclusively designed for the 2nd cs.de 52h mapping contest.
+
+
+
+For optimized results please set the light_environment values in Hammer editor as follows:
+
+Pitch Yaw Roll (Y Z X) : 0 49 0
+                 Pitch : -61
+            Brightness : 208 235 250 XXX (the XXX / brightness value depends from your map)
+
