@@ -6,26 +6,23 @@ setlocal
 REM Altere o caminho abaixo para a pasta onde o script deve começar
 cd /D "%~dp0\cs16"
 
-if exist *.gz goto zip_exist
-
+REM Compacta todos os arquivos recursivamente, ignorando .gz, .cmd e pastas
 for /r %%X in (*) do (
-    REM Verifica se é um arquivo, não uma pasta
-    if not "%%~aX"=="d" (
-        cls
-        REM Compacta arquivos
-        "c:\Program Files\7-Zip\7z.exe" a -r -x!*.gz -x!*.cmd "%%X.gz" "%%X"
-        if exist "%%X.gz" (
-            echo Excluindo original: %%X
-            del "%%X"
+    REM Verifica se NÃO é um arquivo .gz ou .cmd
+    if /I not "%%~xX"==".gz" if /I not "%%~xX"==".cmd" (
+        REM Verifica se é um arquivo (não uma pasta)
+        if exist "%%X" (
+            echo Compactando: %%X
+            "C:\Program Files\7-Zip\7z.exe" a -tgzip "%%X.gz" "%%X" >nul
+            if exist "%%X.gz" (
+                echo Excluindo original: %%X
+                del "%%X"
+            )
         )
     )
 )
-goto end
 
-:zip_exist
-Echo.
-Echo Note: for this script to work, compression of
-Echo pre-existing zip files is not possible.
-
-:end
+echo.
+echo Operação finalizada.
 pause
+
