@@ -1,0 +1,15 @@
+Tempo de download, Formato HH:MM:SS
+
+Formula de cauculo: tamanho
+		   ---------- = minutos
+		    taxa/480
+
+Tamanho total em KiB: 9420KiB
+
+150K = 00:08:37
+300k = 00:04:18
+540K = 00:02:32
+600k = 00:02:09
+1MB = 00:01:22
+2MB = 00:01:00
+
