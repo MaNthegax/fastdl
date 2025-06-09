@@ -1,0 +1,14 @@
+Eldorado - Zombie/Survivor
+by Easen (https://gamebanana.com/members/1692870)
+
+Counter-Terrorists: Prevent zombies
+from spreading the t-virus.
+Team members must destroy the zombies
+that infect people.
+
+Zombie: Carrying
+The t-virus should infect people
+to make them zombies.
+
+Other Notes: There are 4 secret
+shelters and 9 open shelters.

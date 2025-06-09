@@ -1,0 +1,14 @@
+// overview description file for zm_eldorado_e.bsp
+
+global 
+{
+	ZOOM	1.92
+	ORIGIN	0.00 0.00 -50.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_eldorado_e.bmp"
+	HEIGHT	-50.00
+}
