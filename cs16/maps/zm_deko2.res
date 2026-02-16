@@ -1,16 +1,9 @@
-// zm_deko2.res - created with RESGen v2.0.2.
-// RESGen is made by Jeroen "ShadowLord" Bogers,
-// with serveral improvements and additions by Zero3Cool.
-// For more info go to http://resgen.hltools.com
+﻿/////////////////////////////////////////////////////////////
+// Resources file, created with HLBox17b, free software!!! //
+//  © Chapo 2005-2010 - Infos @ http://www.17buddies.net   //
+//            More than 50000 maps to download!            //
+/////////////////////////////////////////////////////////////
+// zm_deko2.res
+// Created: GMT 2011-02-05 21:35:22
 
-// .res entries (10):
-cs_assault.wad
-cs_cbble.wad
-cs_dust.wad
-cs_havana.wad
-cs_office.wad
-cstraining.wad
-de_piranesi.wad
-decals.wad
-halflife.wad
-zm_deko2.wad
+// zm_deko2.wad

@@ -1,0 +1,7 @@
+##### zm_5em1_scrash #####
+
+Mapa Editado Por: [P]erfect [S]crash
+Script do Mapa (Via amxmodx): [P]erfect [S]crash
+
+Descricao:
+Jogue 1 mapa diferente em cada round sem precisar carregar nada.

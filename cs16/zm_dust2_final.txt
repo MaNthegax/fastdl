@@ -1,0 +1,95 @@
+=================RUSSIAN===============================
+
+=======================================================
+zm_dust2_final для Counter-Strike 1.6 a Half-Life Modification
+Беларусь                               февраль 20, 2009
+=======================================================
+
+------Общая информация-----------------------------
+
+Название           : zm_dust2_final
+Версия             : 1.0 final
+Автор              : Дмитрий «DimeX»
+E-mail             : dimexby@mail.ru
+Другие карты       : X-Zm_maps - best maps
+Инфо               : Тринадцатая карта из моей коллекции X-Zm_maps
+
+------Игровая информация---------------------------
+
+Мод                : Counter-Strike: Zombie mod
+Макс число игроков : 32
+
+------Информация о создании карты------------------
+
+На чем основана    : Remake карты de_dust2
+Время создания     : 2 дня
+Время компиляции   : 0ч:32мин
+
+------Об карте-------------------------------------
+
+Zm_dust2_final - это очередной remake карты de_dust2. Теперь на карте новые текстуры,
+добавлены модели, звуки. Добавлено несколько секретов для разнообразия, а так же много
+хороших огневых точек. Теперь каждый найдет себе место по вкусу :) .
+
+------Авторские права------------------------------
+
+Если у вас возникли проблемы, вопросы и т.д. по поводу карты, пишите на мой e-mail.
+
+
+
+Все карты из X-Zm_maps: ze_project, zm_cave_new, zm_city_new, zm_deathalley_new,
+zm_ds_army_new, zm_dust2_final, zm_freebase, zm_gorod_new, zm_officeb2_new, zm_oldstreet,
+zm_orlingbase_new, zm_sand_new, zm_smallnightmare_new, zm_tower_new, zm_toxichouse_new,
+zm_zombattack_new.
+
+
+
+
+
+
+
+
+
+=================ENGLISH===============================
+
+=======================================================
+zm_dust2_final For Counter-Strike 1.6 a Half-Life Modification
+Belarus                               February 20, 2009
+=======================================================
+
+------the General information-----------------------------
+
+The name             : zm_dust2_final
+The version          : 1.0 final
+The author           : Dmitry «DimeX»
+E-mail               : dimexby@mail.ru
+Other maps           : X-Zm_maps - best maps
+Info                 : the Thirteenth map from my collection X-Zm_maps
+
+------the Game information---------------------------
+
+Mod                  : Counter-Strike: Zombie mod
+Max players          : 32
+
+------the Information on map creation------------------
+
+On what it is based  : Remake maps de_dust2
+Creation time        : 2 days
+Compilation time     : 0h:32min
+
+------About a map-------------------------------------
+
+Zm_dust2_final Is next remake maps de_dust2. Now on a map new structures,
+Models are added. 5 secrets for a change, and as many the good fire are added
+Points. Now everyone will find to itself(himself) a place to taste :).
+
+------Copyrights------------------------------
+
+If you had problems, questions and other concerning a map, write on mine e-mail.
+
+
+
+All maps from X-Zm_maps: ze_project, zm_cave_new, zm_city_new, zm_deathalley_new,
+zm_ds_army_new, zm_dust2_final, zm_freebase, zm_gorod_new, zm_officeb2_new, zm_oldstreet,
+zm_orlingbase_new, zm_sand_new, zm_smallnightmare_new, zm_tower_new, zm_toxichouse_new,
+zm_zombattack_new.

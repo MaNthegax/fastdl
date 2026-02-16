@@ -1,0 +1,16 @@
+maps/zm_snowconqueror.bsp
+maps/zm_snowconqueror.txt
+maps/zm_snowconqueror.res
+gfx/env/officebk.tga
+gfx/env/officedn.tga
+gfx/env/officeft.tga
+gfx/env/officelf.tga
+gfx/env/officert.tga
+gfx/env/officeup.tga
+sound/ambience/alarm1.wav
+sound/ambience/City_01.wav
+sound/ambience/copter.wav
+sound/de_losttemple/lt_wind.wav
+sound/ngyl_crc2/flame.wav
+sprites/de_christmas_on_a_newplanet/qfire.spr
+sprites/dx/maps/light.spr
